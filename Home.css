@@ -1,0 +1,14 @@
+/* styles/Home.module.css */
+.container {
+    text-align: center;
+  }
+  
+  .main {
+    padding: 20px;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
